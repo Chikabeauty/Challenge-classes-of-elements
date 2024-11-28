@@ -1,0 +1,1 @@
+I styled the headings so that their background is the same color as their text. Then changed the text color to white so that you can read it. I started by styling the headings with the *'metal'* class.
